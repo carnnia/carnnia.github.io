@@ -6,9 +6,9 @@
 </head>
 
 <body>
-<!--#include file="casey-head.html" -->
+<!--#include file="casey-head.shtml" -->
 <h1>Hello Mr. Casey</h1>
 <p>this is a static site page hosted on github</p>
-<!--#include file="casey-foot.html" -->
+<!--#include file="casey-foot.shtml" -->
 </body>
 </html>
